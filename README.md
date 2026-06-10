@@ -8,6 +8,6 @@ JUCE‑based stereo widener | Mono‑safe | Wet filters
 
 https://www.bilibili.com/video/BV1aoRQBqE9F
 
-Warning: Inserting any additional effects after this plugin may introduce phase issues when the signal is collapsed to mono.
+Warning: Inserting any additional effects after this plugin may introduce phase issues when the signal is summed to mono.
 
 License: GPLv3
